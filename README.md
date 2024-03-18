@@ -13,31 +13,33 @@ The system manages the company's data, users, members, services, finances, emplo
 
 ![AnexoBAAPSI05](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/a99084b7-04dd-48ae-a664-fe9873fc3986)
 
-![AnexoBAAPSI18](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/0285a0a1-61f1-46b7-a94d-3d9766927dbf)
+![AnexoBAAPSI06](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/6e12211c-2323-42c5-b439-e11085668122)
 
-![AnexoBAAPSI17](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/e4e02393-7c38-4783-85cf-5ecdc25ab7c1)
+![AnexoBAAPSI07](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/833b4acb-b219-41cf-a86a-46e99394a85d)
 
-![AnexoBAAPSI16](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/afd89de7-fbd8-4271-b8c6-7dfe6bae2c40)
+![AnexoBAAPSI08](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/4752da88-022f-4e33-9735-f72d1184de10)
 
-![AnexoBAAPSI15](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/51fd860c-daa7-447c-bc39-5b3a7d0f2dc7)
+![AnexoBAAPSI09](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/f8813f38-05eb-44a1-a38f-9847f0bed31d)
 
-![AnexoBAAPSI14](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/5ed05bc0-592f-4922-9ab8-2aa910d86fbb)
+![AnexoBAAPSI10](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/891a9e86-0c8c-4ee3-b326-c0a4879564ba)
 
-![AnexoBAAPSI13](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/e9103f38-5032-4c0c-935f-c7f287e83c1d)
+![AnexoBAAPSI11](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/4c1f36ab-fde2-4502-bb6e-e463c2e0f46e)
 
-![AnexoBAAPSI12](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/fcb87d83-0dfd-45c7-b068-d858b6a20815)
+![AnexoBAAPSI12](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/b4c8e3d9-59e8-48fd-bf82-00fca8a7b50f)
 
-![AnexoBAAPSI11](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/15dc17bf-4122-4e88-8f30-d809bd2b3476)
+![AnexoBAAPSI13](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/216136e8-604a-4960-8ade-e6c86764643a)
 
-![AnexoBAAPSI10](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/6228ac7a-cd37-4c16-8e92-64f458defc12)
+![AnexoBAAPSI14](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/82d1727a-0f0d-450d-9432-8732d08f8723)
 
-![AnexoBAAPSI09](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/84f4d912-8a9e-4e87-a00c-9198dde75afb)
+![AnexoBAAPSI15](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/9613a403-4fa7-4e82-8b4b-6f62fba9bba7)
 
-![AnexoBAAPSI08](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/5d454ae3-c23e-4be3-9c5a-8967ce226d4b)
+![AnexoBAAPSI16](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/d0009ce8-17bf-43c3-a931-bfe2d70cc40d)
 
-![AnexoBAAPSI07](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/584f58dc-3704-4936-8937-a575e939c621)
+![AnexoBAAPSI17](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/39bbffd0-7d89-4bda-8573-30c6a5984eef)
 
-![AnexoBAAPSI06](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/b1f1b386-a2ee-42da-90b8-949a1d7326c9)
+![AnexoBAAPSI18](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/5b36e19f-7cbb-453e-aeb3-54a83be45a0b)
+
+
 
 
 
