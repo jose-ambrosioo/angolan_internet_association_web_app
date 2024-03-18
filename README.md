@@ -3,6 +3,8 @@
 
 The system manages the company's data, users, members, services, finances, employment and security. 
 
+The source code for this project is considered confidential due to its development as a collaborative partnership between the Angolan Internet Association and the Catholic University of Angola.
+
 ![AnexoBAAPSI01](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/633dbeec-6a40-4ff1-8a53-07053efe442e)
 
 ![AnexoBAAPSI02](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/0a424694-5cc0-4649-b622-a4f3568443d4)
