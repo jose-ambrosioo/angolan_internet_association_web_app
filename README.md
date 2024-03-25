@@ -1,9 +1,13 @@
 # integrated_management_system_web_app_for_the_angolan_internet_association
 (JAVA EE | JAVASCRIPT | POSTGRESSQL | JSF | EJB | XHTML | AJAX | CSS | BOOTSTRAP | PRIMEFACES | PGADMIN | WILDFLY | NETBEANS | ENTERPRISE ARCHITECT | UML | RUP | BALSAMIQ MOCKUPS)
 
-The system manages the company's data, users, members, services, finances, employment and security. 
+This web app manages the data, users, members, services, finances, employment and security of the Angolan Internet Association.
 
 The source code for this project is considered confidential due to its development as a collaborative partnership between the Angolan Internet Association and the Catholic University of Angola.
+
+Its mockup was created using the Balsamiq Mockups software.
+
+The project was modelled using the Enterprise Architect, and the following diagrams and components were created: Class, Sequence, State, Activity, Collaboration, Component, and Installation diagrams for the project, Requirement Document, Business Glossary, Vision Document, Use Case Specification, User Interface Prototypes, Documentation HTML, Project Report.									
 
 ![AnexoBAAPSI01](https://github.com/jose-ambrosioo/integrated_management_system_web_app_for_the_angolan_internet_association/assets/59221796/633dbeec-6a40-4ff1-8a53-07053efe442e)
 
