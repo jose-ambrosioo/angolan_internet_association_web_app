@@ -1,4 +1,4 @@
-# angolan_internet_association_web_app
+# Angolan Internet Association Web App
 (JAVA EE | JAVASCRIPT | POSTGRESSQL | JSF | EJB | XHTML | AJAX | CSS | BOOTSTRAP | PRIMEFACES | PGADMIN | WILDFLY | NETBEANS | ENTERPRISE ARCHITECT | UML | RUP | BALSAMIQ MOCKUPS)
 
 This web app manages the data, users, members, services, finances, employment and security of the Angolan Internet Association.
