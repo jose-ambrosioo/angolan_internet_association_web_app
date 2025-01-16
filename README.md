@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/6a3b502c-f03a-42d1-a1c3-841a63d8ccbd)# Angolan Internet Association Web App
-(Java EE (J2EE / Jakarta EE) | JSP | EJB | JDBC | Apache Tomcat | JavaScript | AJAX | PostgreSQL | JPA | Hibernate | XHTML | CSS | Bootstrap | Primefaces | XML | PGAdmin | REST APIs | NetBeans IDE)
+# Angolan Internet Association Web App
+(Java EE (J2EE / Jakarta EE) | JSP | EJB | JDBC | Apache Tomcat | JavaScript | AJAX | PostgreSQL | JPA | Hibernate | Primefaces | XHTML | CSS | Bootstrap | XML | PGAdmin | REST APIs | NetBeans IDE)
 
 This web app manages the data, users, members, services, finances, employment and security of the Angolan Internet Association.
 
