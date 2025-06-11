@@ -1,5 +1,5 @@
 # Angolan Internet Association Web App
-(Java EE (J2EE / Jakarta EE) | JSP | EJB | JDBC | Apache Tomcat | JavaScript | AJAX | PostgreSQL | JPA | Hibernate | Primefaces | XHTML | CSS | Bootstrap | XML | PGAdmin | REST APIs | NetBeans IDE)
+(Java EE (J2EE / Jakarta EE) | JSF | JSP | EJB | JDBC | Apache Tomcat | JavaScript | AJAX | PostgreSQL | JPA | Hibernate | Primefaces | XHTML | CSS | Bootstrap | XML | PGAdmin | REST APIs | NetBeans IDE)
 
 This web app manages the data, users, members, services, finances, employment and security of the Angolan Internet Association.
 
